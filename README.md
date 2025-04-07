@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="axios logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.simpleicons.org/mamp/004E7E" height="40" alt="mamp logo" />
+  <img src="https://cdn.simpleicons.org/mamp/023430" height="40" alt="mamp" />
   <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="40" alt="phpmyadmin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visual studio logo" />
