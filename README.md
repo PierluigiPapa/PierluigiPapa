@@ -42,8 +42,8 @@
   <img src="https://cdn.simpleicons.org/mamp/023430" height="40" alt="mamp" />
   <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="40" alt="phpmyadmin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visual studio logo" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="sql server logo" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visual studio" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="sql server" />
 </div>
 
 ###
